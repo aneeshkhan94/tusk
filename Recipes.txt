@@ -6,5 +6,9 @@ Omlete
 maggi
 chicken fry
 
+beans
+dal
+pizza
+
 
 thank you!!!
